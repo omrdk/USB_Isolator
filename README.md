@@ -16,8 +16,8 @@ To be able to supply the USB device, an isolated 5V to 5V, 2W DC/DC converter(<s
 ) connected to the each side.</font><p>
 <p><font size=5>Schematic and PCB were done with <a href="https://kicad.org/" style="color:yellow"> KiCAD</a>:</font><p>
 <img align="center" img src="images/usb_ISO.png" alt="drawing"/> 
-<p><img align="left" img src="images/top.png" alt="drawing"/> </p>
-<p><img align="justify" img src="images/bottom.png" alt="drawing"/> </p>
+<p><img align="left" img src="images/top.png" alt="drawing" width= 300/> </p>
+<p><img align="justify" img src="images/bottom.png" alt="drawing" width=300/> </p>
 <p><font size=5>Just a preview:</font><p>
-<p><img align="left" img src="images/top_3d.png" alt="drawing" width=420/> </p>
-<p><img align="left" img src="images/bottom_3d.png" alt="drawing"width=475/> </p>
+<p><img align="left" img src="images/top_3d.png" alt="drawing" width=420 height=280/> </p>
+<p><img align="left" img src="images/bottom_3d.png" alt="drawing"width=420/> </p>
