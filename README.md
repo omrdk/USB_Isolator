@@ -19,5 +19,5 @@ To be able to supply the USB device, an isolated 5V to 5V, 2W DC/DC converter(<s
 <p><img align="left" img src="images/top.png" alt="drawing" width= 300/> </p>
 <p><img align="justify" img src="images/bottom.png" alt="drawing" width=300/> </p>
 <p><font size=5>Just a preview:</font><p>
-<p><img align="left" img src="images/top_3d.png" alt="drawing" width=420 height=280/> </p>
-<p><img align="left" img src="images/bottom_3d.png" alt="drawing"width=420/> </p>
+<p><img align="left" img src="images/top_3d.png" alt="drawing" width=380 height=255/> </p>
+<p><img align="left" img src="images/bottom_3d.png" alt="drawing"width=380/> </p>
